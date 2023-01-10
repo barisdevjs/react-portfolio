@@ -1,3 +1,6 @@
 [submodule "backend_sanity"]
 	path = backend_sanity
 	url = ./backend_sanity
+[submodule "frontend_react"]
+	path = frontend_react
+	url = ./frontend_react
