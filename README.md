@@ -17,3 +17,5 @@ Inside the backend folder:
 
 Run `sanity manage` at the root of your project.\
 It will automatically opened in an new tab at `Sanity Settings Page.` 
+
+frontend / dist folder is manually deployed to netlify
